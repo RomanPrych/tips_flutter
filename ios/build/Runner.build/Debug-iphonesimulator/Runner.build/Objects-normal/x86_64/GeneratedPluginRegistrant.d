@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/romanpr/StudioProjects/tips_flutter/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h
